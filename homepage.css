@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+
+body {
+        font-family: Palatino, 'Times New Roman';
+
+}
+
+#container a {
+  color: white;
+}
+a:link {
+        text-decoration: none;
+        color: blue;
+}
+
+a:hover {
+        text-decoration: underline;
+       
+}
+
+a:visited {
+        color: blue;
+        text-decoration: none;
+}
+
+nav, h1 {
+        border-style: solid;
+        text-align: center;
+        border-color: darkblue; 
+        background-color: darkblue;
+        padding: .5em;
+        color: white;
+}
+
+
+img:profile {
+        width: 100px;
+        height: 100px;
+        border-radius: 50%;
+}
+
+footer {
+        border-top: solid;
+        border-width: 2px;
+}
+
+img, picture, video {
+        max-width: 100%
+        height: auto;
+        width: auto\9;
+        }
+
+a[href^="mailto"] { color: blue; }

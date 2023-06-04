@@ -1,0 +1,96 @@
+* {
+    margin: 0;
+}
+
+body {
+        font-family: Palatino, 'Times New Roman';
+
+}
+
+#container a {
+  color: white;
+}
+a:link {
+        text-decoration: none;
+        color: white;
+}
+
+a:hover {
+        text-decoration: underline;
+
+}
+
+a:visited {
+        color: blue;
+        text-decoration: none;
+}
+
+nav, h1 {
+        border-style: solid;
+        text-align: center;
+        border-color: darkblue;
+        background-color: darkblue;
+        padding: .5em;
+        color: white;
+}
+
+footer {
+        border-top: solid;
+        border-width: 2px;
+}
+
+img, picture, video {
+        max-width: 100%
+        height: auto;
+        width: auto\9;
+}
+
+
+.post {
+  display: grid;
+  margin: 20px;
+  text-align: center;
+  
+}
+
+.post-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+button {
+  background-color: darkblue;
+  border-radius: 8px;
+  border-style: none;
+  padding: 10px;
+  width: 25%;
+  color: white;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  height: 40px;
+  line-height: 20px;
+  overflow: scroll;
+  margin: 0;   
+}
+
+.b {
+  text-align: center;
+}
+
+a[href^="mailto"] { color: blue; }
+
+.post-date {
+  font-size: 12px;
+}
+
+.post-writing {
+  margin: 10px;
+}
+
+#text1, #text2, #text3 {
+  display: none;
+}
