@@ -12,7 +12,7 @@ body {
 }
 a:link {
         text-decoration: none;
-        color: white;
+        color: blue;
 }
 
 a:hover {
@@ -37,6 +37,7 @@ nav, h1 {
 footer {
         border-top: solid;
         border-width: 2px;
+	height: 100px;
 }
 
 img, picture, video {
