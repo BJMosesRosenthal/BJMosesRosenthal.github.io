@@ -44,6 +44,7 @@ img:profile {
 footer {
         border-top: solid;
         border-width: 2px;
+	height: 100px;
 }
 
 img, picture, video {
