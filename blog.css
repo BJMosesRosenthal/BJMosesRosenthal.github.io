@@ -95,6 +95,6 @@ a[href^="mailto"] { color: blue; }
 }
 
 
-.text {
+#post1, #post2, #post3 {
   display: none;
 }
