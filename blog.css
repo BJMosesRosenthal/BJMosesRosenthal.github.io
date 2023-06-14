@@ -12,6 +12,7 @@ body {
 }
 a:link {
         text-decoration: none;
+	color: white;
 }
 
 a:hover {
