@@ -60,7 +60,7 @@ img, picture, video {
   margin-right: auto;
   width: 25%;
   max-width: 250px;
-  max-heihgt: 250px;
+  max-height: 250px;
 }
 
 button {
@@ -95,6 +95,6 @@ a[href^="mailto"] { color: blue; }
 }
 
 
-#post9, #post8, #post7, #post6, #post5, #post4, #post3, #post2, #post1 {
+#post14, #post13, #post12, #post11, #post10, #post9, #post8, #post7, #post6, #post5, #post4, #post3, #post2, #post1 {
   display: none;
 }
